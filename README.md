@@ -2,10 +2,9 @@
 
 Implement drag and drop functionality to load audio clips and create a dynamic audio experience, trigger animation, and play a compiled audio track
 
-## Rebuilt Features
-
-Color Palette, Layout and Tasks
-Mobile, Tablet and Desktop
+## Assets
+Intruments Images
+Music Audios
 
 ## Dependencies
 
