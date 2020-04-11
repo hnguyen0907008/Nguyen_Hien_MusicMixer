@@ -1,9 +1,12 @@
 # Nguyen_Hien_MusicMixer
 
-Implement drag and drop functionality to load audio clips and create a dynamic audio experience, trigger animation, and play a compiled audio track
+Music Shop - Testing instruments.
+Drag the music instrument items into the correct zones to play the instrument song. Play 1 instrument at a time.
+Each zone has buttons to control the sound like how you want: play, pause and rewind.
+Press Reset button to reset everything.
 
 ## Assets
-Intruments Images
+Music Intruments Images
 Music Audios
 
 ## Dependencies

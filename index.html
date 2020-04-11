@@ -2,13 +2,71 @@
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="css/main.css">
-	<title>Music Mixer Demo</title>
+	<title>Music Mixer</title>
 </head>
 <body>
 	<main>
-		<div class="drop-zone"></div>
-		<div class="items"></div>
-		<button id="playButton">Play</button>
+		<h1>WELCOME TO THE MUSIC SHOP</h1>
+		<p id="description">Try testing these instruments we have by dragging the items into the correct zones below.</p>
+		<div class="drop-zone">
+			<div class="drop one">
+				<div class="instrName"><h2>DRUMS</h2></div>
+				<section class="playInstr1">
+					<img src="images/Item-Drum.svg" alt="img" id="drumPlay">
+					<div class="controls">
+						<button class="playButton" data-trackref="Sound-Drum">play</button>
+						<button class="pauseButton">pause</button>
+      					<button class="rwButton">rewind</button>
+      				</div>
+				</section>
+			</div><!--end drop 1-->
+			<div class="drop two">
+				<div class="instrName"><h2>GUITAR</h2></div>
+				<section class="playInstr2" class="show-guitar">
+					<img src="images/Item-Guitar.svg" alt="img" id="guitarPlay">
+					<div class="controls">
+						<button class="playButton" data-trackref="Sound-Guitar">play</button>
+						<button class="pauseButton">pause</button>
+      					<button class="rwButton">rewind</button>
+      				</div>
+				</section>
+			</div>
+			<div class="drop three">
+				<div class="instrName"><h2>PIANO</h2></div>
+				<section class="playInstr3" class="show-piano">
+					<img src="images/Item-Piano.svg" alt="img" id="pianoPlay">
+					<div class="controls">
+						<button class="playButton" data-trackref="Sound-Piano">play</button>
+						<button class="pauseButton">pause</button>
+      					<button class="rwButton">rewind</button>
+      				</div>
+				</section>
+			</div>
+			<div class="drop four">
+				<div class="instrName"><h2>SAXOPHONE</h2></div>
+				<section class="playInstr4" class="show-sax">
+					<img src="images/Item-Sax.svg" alt="img" id="saxPlay">
+					<div class="controls">
+						<button class="playButton" data-trackref="Sound-Sax">play</button>
+						<button class="pauseButton">pause</button>
+      					<button class="rwButton">rewind</button>
+      				</div>
+				</section>
+			</div>
+		</div>
+
+		<div class="reset">
+			<button class="resetButton">RESET</button>
+		</div>
+
+		<div class="items">
+		<!--Drag Zone-->
+			<img src="images/Drum.svg" alt="icon" id = "dragDrum" class="instr drum" draggable>
+			<img src="images/Guitar.svg" alt="icon" id = "dragGuitar" class="instr guitar" draggable>
+			<img src="images/Piano.svg" alt="icon" id = "dragPiano" class="instr piano" draggable>
+			<img src="images/Sax.svg" alt="icon" id = "dragSax" class="instr sax" draggable>
+		</div>
 	</main>
+	<script src="js/main.js"></script>
 </body>
 </html>

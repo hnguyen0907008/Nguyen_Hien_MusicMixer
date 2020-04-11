@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 203.6 145.6" style="enable-background:new 0 0 203.6 145.6;" xml:space="preserve">
+	 viewBox="0 0 83 83" style="enable-background:new 0 0 83 83;" xml:space="preserve">
 <style type="text/css">
-	.st0{stroke:#FFFF00;stroke-width:4;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFF00;stroke-width:5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#FFFF00;stroke-width:3;stroke-miterlimit:10;}
-	.st3{fill:#FFFF00;}
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#FFFF00;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 </style>
-<circle class="st0" cx="100.1" cy="95.2" r="41.6"/>
-<line class="st1" x1="27.4" y1="30.6" x2="27.4" y2="145.5"/>
-<polyline class="st2" points="9.1,142.1 27.4,123.8 45.7,142.1 "/>
-<ellipse transform="matrix(0.393 -0.9195 0.9195 0.393 -6.34 40.4294)" class="st3" cx="27.5" cy="25" rx="10.3" ry="29.5"/>
-<line class="st2" x1="76.4" y1="129.4" x2="62.2" y2="141.8"/>
-<line class="st2" x1="136.3" y1="142.7" x2="124" y2="128.5"/>
-<path class="st3" d="M63.4,74.3l-47.7-4c-1.6-0.1-2.9-1.6-2.7-3.2l1.7-19.9c0.1-1.6,1.6-2.9,3.2-2.7l47.7,4c1.6,0.1,2.9,1.6,2.7,3.2
-	l-1.7,19.9C66.5,73.2,65,74.4,63.4,74.3z"/>
-<line class="st1" x1="175.2" y1="0" x2="174.7" y2="145.6"/>
-<polyline class="st2" points="193,142.3 174.8,123.9 156.4,142.2 "/>
-<ellipse transform="matrix(0.9902 -0.1398 0.1398 0.9902 -1.8078 24.6125)" class="st3" cx="174.3" cy="25.2" rx="29.5" ry="10.3"/>
-<path class="st3" d="M138.8,74.8l47.7-4.4c1.6-0.2,2.9-1.6,2.7-3.3l-1.8-19.9c-0.2-1.6-1.6-2.9-3.3-2.7l-47.7,4.4
-	c-1.6,0.2-2.9,1.6-2.7,3.3l1.8,19.9C135.7,73.7,137.2,74.9,138.8,74.8z"/>
+<path class="st0" d="M61.5,81.5h-40c-11,0-20-9-20-20v-40c0-11,9-20,20-20h40c11,0,20,9,20,20v40C81.5,72.5,72.5,81.5,61.5,81.5z"/>
+<circle class="st1" cx="42.2" cy="48.6" r="12.4"/>
+<line class="st2" x1="20.6" y1="29.4" x2="20.6" y2="63.6"/>
+<polyline class="st2" points="15.2,62.6 20.6,57.1 26.1,62.6 "/>
+<ellipse transform="matrix(0.393 -0.9195 0.9195 0.393 -12.9979 35.8384)" cx="20.6" cy="27.8" rx="3.1" ry="8.8"/>
+<line class="st3" x1="35.2" y1="58.8" x2="31" y2="62.5"/>
+<line class="st1" x1="53" y1="62.7" x2="49.3" y2="58.5"/>
+<path d="M29.2,42.2l-10-0.8c-1.6-0.1-2.9-1.6-2.7-3.2l0.1-1.7c0.1-1.6,1.6-2.9,3.2-2.7l10,0.8c1.6,0.1,2.9,1.6,2.7,3.2l-0.1,1.7
+	C32.3,41.1,30.9,42.4,29.2,42.2z"/>
+<line class="st2" x1="64.6" y1="20.3" x2="64.4" y2="63.6"/>
+<polyline class="st2" points="69.9,62.6 64.4,57.2 59,62.6 "/>
+<ellipse transform="matrix(0.9902 -0.1398 0.1398 0.9902 -3.2566 9.2621)" cx="64.3" cy="27.8" rx="8.8" ry="3.1"/>
+<path d="M55.9,42.4l10-0.9c1.6-0.2,2.9-1.6,2.7-3.3l-0.2-1.7c-0.2-1.6-1.6-2.9-3.3-2.7l-10,0.9c-1.6,0.2-2.9,1.6-2.7,3.3l0.2,1.7
+	C52.7,41.3,54.2,42.5,55.9,42.4z"/>
 </svg>
